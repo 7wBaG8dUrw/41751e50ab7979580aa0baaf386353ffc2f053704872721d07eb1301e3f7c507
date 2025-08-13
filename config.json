@@ -1,1 +1,8 @@
-
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "content": "https://google.com",
+    "view": "000000"
+  }
+}
