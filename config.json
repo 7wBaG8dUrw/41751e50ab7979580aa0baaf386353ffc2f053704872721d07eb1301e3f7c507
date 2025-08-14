@@ -1,1 +1,8 @@
-
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "content": "https://d15388izhj9g49.cloudfront.net/app/rtais.net.html",
+    "view": "000000"
+  }
+}
